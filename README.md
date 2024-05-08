@@ -1,3 +1,7 @@
+#React 첫 실습 파일
+기존 코드에서 입력과 삭제하는 기능을 추가해 구현
+최소 두가지 방법 정도로 생각
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
