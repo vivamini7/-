@@ -1,0 +1,50 @@
+header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  img {
+    padding-right: 10px;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(92, 50, 13);
+  }
+  
+  .body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .publish {
+    display: flex;
+    margin-top: 20px;
+    height: 30px;
+  }
+  
+  input {
+    margin-right: 20px;
+    width: 180px;
+  }
+  
+  button {
+    width: 50px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: rgb(90, 52, 13);
+    color: white;
+  }
+  
+  .comments {
+    border: 1px solid rgb(90, 52, 13);
+    margin-top: 10px;
+    width: 240px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
